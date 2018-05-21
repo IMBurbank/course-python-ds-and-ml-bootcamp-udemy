@@ -1,0 +1,33 @@
+# Logs and databases #
+######################
+*.log
+*.sql
+*.sqlite
+
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Jekll Content #
+#################
+_site/
+*.jekyll-metadata
+
+# Node Modules #
+################
+node_modules/
+
+# Environmental Files #
+#######################
+.env
+*.pem
+
+# Dev Database Directories #
+############################
+devData
